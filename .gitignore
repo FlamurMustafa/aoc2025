@@ -1,0 +1,6 @@
+# Generated files and build artifacts
+/target/
+**/input
+
+*.swp
+*.swo
